@@ -1,0 +1,52 @@
+{
+  "Electronic": [
+    {
+      "Title": "samsung",
+      "Product_Details": "galaxy",
+      "Product_Price": "190000",
+      "Product_ID": "xx-xx-xx",
+      "id": 1
+    },
+    {
+      "Username": "sohail memon",
+      "Address": "H/125 DHA ",
+      "Contact": "03208899820",
+      "Email": "sohailmemon985@gmail.com",
+      "Quantity": "02",
+      "isActive": true,
+      "id": 2
+    },
+    {
+      "Username": "r",
+      "Address": "r",
+      "Contact": "r",
+      "Email": "r",
+      "Quantity": "r",
+      "isActive": true,
+      "id": 3
+    },
+    {
+      "Title": "q",
+      "Product_Details": "q",
+      "Product_Price": "q",
+      "Product_ID": "q",
+      "id": 4
+    },
+    {
+      "Title": "q",
+      "Product_Details": "w",
+      "Product_Price": "e",
+      "Product_ID": "r",
+      "id": 5
+    },
+    {
+      "Username": "a",
+      "Address": "s",
+      "Contact": "d",
+      "Email": "f",
+      "Quantity": "g",
+      "isActive": true,
+      "id": 6
+    }
+  ]
+}
